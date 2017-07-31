@@ -1,0 +1,59 @@
+<<<<<<< HEAD
+=======
+#codelite
+.clang/
+.codelite/
+Debug/
+
+# Visual Studio
+*.sdf
+*.sln
+*.user
+*.suo
+*.opensdf
+*.opendb
+*.db
+Debug/
+ipch/
+x64/
+.vs/
+
+>>>>>>> change sth
+# Compiled Object files
+*.slo
+*.lo
+*.o
+<<<<<<< HEAD
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+=======
+>>>>>>> change sth
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+<<<<<<< HEAD
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+=======
+>>>>>>> change sth
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+<<<<<<< HEAD
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+=======
+>>>>>>> change sth
